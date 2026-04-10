@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spa271985
-- 👀 I’m interested in creating sample mathematica notebooks for quick and easy learning of the basic numerical procedures in theoretical physics.
+- 👀 I’m interested in creating sample codes for quantum computation and mathematica notebooks for quick and easy learning of the basic numerical procedures in theoretical physics.
 - 🌱 I’m currently learning advanced numerical integration and differential equation solver for large data.
-- 💞️ I’m looking to collaborate on Jet phenomenology in QCD physics.
+- 💞️ I’m looking to collaborate on Quantum computation projects and Jet phenomenology in QCD physics.
 - 📫 Reach me at souvikadhya2007@gmail.com
 
 <!---
