@@ -1,75 +1,31 @@
 # Hi, I'm Souvik Priyam Adhya 👋
 
-I am interested in the intersection of **quantum computing**, **computational
-physics**, **scientific programming**, and **data-driven methods**. I build
-small, well-documented projects that turn mathematical and physical ideas into
-code that others can run, visualize, and learn from.
+I have research experience in **high-energy physics** and an active interest in
+using computational methods to study physics and financial systems.
 
-My current work focuses on developing practical experience with Qiskit,
-variational quantum algorithms, numerical methods, and reproducible scientific
-computing workflows.
+## High-Energy Physics
 
-## Areas of focus
+My research background is in high-energy physics, with experience in
+theoretical and numerical approaches to physics problems.
 
-- **Quantum computing:** quantum circuits, simulation, measurement, Hamiltonian
-  encoding, and variational quantum algorithms
-- **Computational physics:** numerical implementations of models from quantum
-  mechanics and theoretical physics
-- **Scientific computing:** numerical integration, differential equations,
-  optimization, and visualization
-- **Mathematica notebooks:** accessible demonstrations of numerical procedures
-  used in theoretical physics
-- **Developing fields:** quantum algorithms, machine learning, quantitative
-  finance, and numerical methods for large datasets
+## Quantitative Finance
 
-## Featured quantum-computing projects
+I am developing my skills in quantitative-finance modelling, with an emphasis
+on numerical methods, data analysis, and mathematical modelling.
 
-My [Quantum Computation Projects](https://github.com/Spa271985/quantum_computation_projects)
-repository is a growing collection of beginner-friendly Python and Qiskit
-tutorials. Each project includes theory, commented code, reproducible setup
-instructions, quantum circuits, experiments to try, and result visualizations.
+## Quantum Computing
 
-### [Quantum Superposition Demo](https://github.com/Spa271985/quantum_computation_projects/tree/main/quantum-superposition-demo)
+I create beginner-friendly quantum-computing projects using Python and Qiskit,
+including quantum circuits, simulations, visualizations, and variational
+quantum algorithms.
 
-A one-qubit introduction to the Hadamard gate, superposition, repeated
-measurement, local simulation, and probability histograms.
+🔗 [Explore my quantum-computing projects](https://github.com/Spa271985/quantum_computation_projects)
 
-### [VQE Harmonic Oscillator](https://github.com/Spa271985/quantum_computation_projects/tree/main/vqe_harmonic_oscillator)
+Current projects:
 
-A two-qubit implementation of the Variational Quantum Eigensolver that
-approximates the ground-state energy of a truncated harmonic oscillator and
-compares it with the exact result.
-
-### [Ising Model VQE](https://github.com/Spa271985/quantum_computation_projects/tree/main/ising_model_vqe)
-
-A hybrid quantum-classical solution of the two-spin transverse-field Ising
-model, covering Pauli Hamiltonians, entanglement, classical optimization,
-ground-state probabilities, and spin correlations.
-
-## Technical toolkit
-
-| Area | Tools and concepts |
-| :--- | :--- |
-| Quantum computing | Qiskit, quantum circuits, statevectors, VQE, Pauli operators |
-| Scientific Python | Python, NumPy, SciPy, Matplotlib |
-| Symbolic and numerical work | Wolfram Mathematica, numerical integration, differential equations |
-| Development workflow | Git, GitHub, virtual environments, reproducible project documentation |
-
-## What I am developing next
-
-- Extending quantum simulations to larger spin systems
-- Replacing exact statevector calculations with shot-based measurements
-- Studying noisy simulations and execution on quantum hardware
-- Exploring more advanced variational algorithms and ansatz designs
-- Strengthening machine-learning and quantitative-finance applications
-- Developing scalable numerical integration and differential-equation methods
-
-## Collaboration
-
-I am interested in collaborating on educational or research-oriented projects
-in quantum computing, computational physics, scientific Python, and numerical
-methods. I particularly value projects that make technically demanding ideas
-clearer through executable examples and visual explanations.
+- Quantum Superposition Demo
+- VQE Harmonic Oscillator
+- Ising Model VQE
 
 ## Contact
 
