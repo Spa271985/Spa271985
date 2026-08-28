@@ -13,6 +13,8 @@ theoretical and numerical approaches to physics problems.
 I am developing my skills in quantitative-finance modelling, with an emphasis
 on numerical methods, data analysis, and mathematical modelling.
 
+🔗 [Quantitative Finance Analysis](https://github.com/Spa271985/quantitative_finance_analysis) — Python-based credit-risk analysis of public EBA data, covering exposure, defaults, concentration, peer comparison, and stress sensitivity.
+
 ## Quantum Computing
 
 I create beginner-friendly quantum-computing projects using Python and Qiskit,
